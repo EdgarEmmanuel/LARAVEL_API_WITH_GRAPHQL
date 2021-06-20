@@ -3,14 +3,25 @@ ___
 
 A. which package did i use ?
 
-[package Rebing/graphql-laravel](https://github.com/rebing/graphql-laravel)
+[Package Rebing/graphql-laravel](https://github.com/rebing/graphql-laravel)
 
 ___
 
 1. where are my queries ?
+
+    [Queries](https://github.com/EdgarEmmanuel/LARAVEL_API_WITH_GRAPHQL/tree/main/app/GraphQL/Queries)
+
 2. where are my types ?
+
+    [Types](https://github.com/EdgarEmmanuel/LARAVEL_API_WITH_GRAPHQL/tree/main/app/GraphQL/Types)
+
 3. where are my mutations ?
+
+    [Mutations](https://github.com/EdgarEmmanuel/LARAVEL_API_WITH_GRAPHQL/tree/main/app/GraphQL/Mutations)
+
 4. where is the global graphiql configuration ?
+
+    [GraphiQL Configuration File](https://github.com/EdgarEmmanuel/LARAVEL_API_WITH_GRAPHQL/blob/main/config/graphql.php)
 ___
 
 NB : how to test my endpoints ?
