@@ -17,6 +17,7 @@
         "rebing/graphql-laravel": "^7.2"
     },
     "require-dev": {
+        "barryvdh/laravel-debugbar": "^3.6",
         "facade/ignition": "^2.0",
         "fakerphp/faker": "^1.9.1",
         "mockery/mockery": "^1.3.1",
