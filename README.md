@@ -1,9 +1,14 @@
 # BUILD LARAVEL API WITH GRAPHQL
 ___
 
-A. which package did i use ?
+A. which package did i use for GraphQL ?
 
 [Package Rebing/graphql-laravel](https://github.com/rebing/graphql-laravel)
+
+
+B. which package did i use for Debug Bar ?
+
+[Package barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 
 ___
 
@@ -19,7 +24,7 @@ ___
 
     [Mutations](https://github.com/EdgarEmmanuel/LARAVEL_API_WITH_GRAPHQL/tree/main/app/GraphQL/Mutations)
 
-4. where is the global graphiql configuration ?
+4. where is the global GraphQL configuration ?
 
     [GraphiQL Configuration File](https://github.com/EdgarEmmanuel/LARAVEL_API_WITH_GRAPHQL/blob/main/config/graphql.php)
 ___
